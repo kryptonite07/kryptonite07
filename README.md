@@ -92,11 +92,6 @@
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-     </td>
-      <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/solidity-icon.svg" alt="icon" width="65" height="65" />
-      <br>Solidity
-    </td>
   </tr>  
 </table>
 </div>
